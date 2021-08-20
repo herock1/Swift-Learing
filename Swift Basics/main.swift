@@ -7,6 +7,7 @@
 
 import Foundation
 
+/*
 print("Hello, World!")
 //Operator operation
 print(applyOperator(8, 3, .add ))
@@ -23,4 +24,9 @@ let controlFlow = ControlFlow()
 
 
 let function  = FunctionInro()
+
+*/
+
+let closour = ClosourType()
+closour.callClosour()
 

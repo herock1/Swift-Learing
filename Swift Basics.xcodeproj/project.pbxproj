@@ -7,7 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F06FFDF226D0458F00956525 /* EnumerationExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = F06FFDF126D0458F00956525 /* EnumerationExample.swift */; };
 		F08E0E0126CD74CD00D2ED79 /* FunctionType.swift in Sources */ = {isa = PBXBuildFile; fileRef = F08E0E0026CD74CD00D2ED79 /* FunctionType.swift */; };
+		F09428DC26CEDCDC007DD36B /* ClosourType.swift in Sources */ = {isa = PBXBuildFile; fileRef = F09428DB26CEDCDC007DD36B /* ClosourType.swift */; };
 		F0E25FFE26CC27680075E536 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0E25FFD26CC27680075E536 /* main.swift */; };
 		F0E2600826CC49120075E536 /* Operator.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0E2600726CC49120075E536 /* Operator.swift */; };
 		F0E2600B26CC4CEA0075E536 /* CollectionType.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0E2600A26CC4CEA0075E536 /* CollectionType.swift */; };
@@ -27,7 +29,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		F06FFDF126D0458F00956525 /* EnumerationExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnumerationExample.swift; sourceTree = "<group>"; };
 		F08E0E0026CD74CD00D2ED79 /* FunctionType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunctionType.swift; sourceTree = "<group>"; };
+		F09428DB26CEDCDC007DD36B /* ClosourType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClosourType.swift; sourceTree = "<group>"; };
 		F0E25FFA26CC27680075E536 /* Swift Basics */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Swift Basics"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0E25FFD26CC27680075E536 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F0E2600726CC49120075E536 /* Operator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Operator.swift; sourceTree = "<group>"; };
@@ -70,6 +74,8 @@
 				F0E2600A26CC4CEA0075E536 /* CollectionType.swift */,
 				F0E2600D26CC55D80075E536 /* ControlFlow.swift */,
 				F08E0E0026CD74CD00D2ED79 /* FunctionType.swift */,
+				F09428DB26CEDCDC007DD36B /* ClosourType.swift */,
+				F06FFDF126D0458F00956525 /* EnumerationExample.swift */,
 			);
 			path = "Swift Basics";
 			sourceTree = "<group>";
@@ -132,10 +138,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				F08E0E0126CD74CD00D2ED79 /* FunctionType.swift in Sources */,
+				F09428DC26CEDCDC007DD36B /* ClosourType.swift in Sources */,
 				F0E25FFE26CC27680075E536 /* main.swift in Sources */,
 				F0E2600E26CC55D80075E536 /* ControlFlow.swift in Sources */,
 				F0E2600826CC49120075E536 /* Operator.swift in Sources */,
 				F0E2600B26CC4CEA0075E536 /* CollectionType.swift in Sources */,
+				F06FFDF226D0458F00956525 /* EnumerationExample.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
