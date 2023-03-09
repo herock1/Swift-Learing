@@ -16,6 +16,11 @@ class ControlFlow {
             print("Hello, \(name)!")
         }
         
+        for (index,name) in names.enumerated()
+        {
+            print("name : \(name) Index: \(index)")
+        }
+        
         for index in 1...5 {
             print("\(index) times 5 is \(index * 5)")
         }

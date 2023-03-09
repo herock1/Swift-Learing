@@ -20,12 +20,13 @@ let collection = CollectionIntro()
 collection.setIntro()
 collection.dictionaryIntro()
 
-let controlFlow = ControlFlow()
 
 
 let function  = FunctionInro()
 
 */
+let controlFlow = ControlFlow()
+controlFlow.forloopIntro()
 
 let closour = ClosourType()
 closour.callClosour()
